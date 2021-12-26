@@ -1,4 +1,4 @@
-#Contacts:
+#Contacts: --hint
 🔗 [Linkedin](https://www.linkedin.com/in/riccardocecco/)
 🔗 [Twitter](https://twitter.com/CeccoRiccardo) 
 
