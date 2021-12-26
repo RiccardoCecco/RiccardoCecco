@@ -16,4 +16,4 @@ Computer science Engineer at [Politecnico di Milano](https://www.polimi.it/)
 
 **Contact me:**
 
-Feel free to email me [✉️](ceccoriccardo1997@gmail.com)
+Feel free to email me [✉️](mailto:ceccoriccardo1997@gmail.com)
