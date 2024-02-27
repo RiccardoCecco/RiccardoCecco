@@ -7,7 +7,7 @@
 
 **Jobs:**
 
-Researcher Engineer in the [Worklow and Distribued Computing group] (https://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computinghttps://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computing) at [Barcelona Supercomputing Center](https://www.bsc.es/) 
+Researcher Engineer in the [Worklow and Distribued Computing group](https://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computinghttps://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computing) at [Barcelona Supercomputing Center](https://www.bsc.es/) 
 
 **Background:**
 
