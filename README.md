@@ -11,7 +11,7 @@ Researcher Engineer in the [Worklows and Distributed Computing research group](h
 
 **Background:**
 
-- Bachelor's degree: Computer science Engineer at [Politecnico di Milano](https://www.polimi.it/)
+- Bachelor's degree: Computer science Engineer at [Politecnico di Milano](https://www.polimi.it/en)
 
 - Master's degree: [Computer Science Engineering specialization in Computer Networks and Distributed Systems](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/computer-networks-and-distributed-systems) at [Universitat Politècnica de Catalunya · Barcelona Tech - UPC](https://www.upc.edu/en)
 
