@@ -5,10 +5,12 @@
 🔗 [Twitter](https://twitter.com/CeccoRiccardo) 
 
 
-**Jobs:**
+**Actual Job:**
+
 DevOps Engineer at [Clarivate](https://clarivate.com/)
 
 **Past Jobs:**
+
 Researcher Engineer in the [Worklows and Distributed Computing research group](https://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computing) at [Barcelona Supercomputing Center](https://www.bsc.es/) 
 
 
