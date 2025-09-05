@@ -21,6 +21,4 @@ Software engineer at [Skyscanner](https://www.skyscanner.net/)
 
 🔗 [Linkedin](https://www.linkedin.com/in/riccardocecco/) 
 
-🔗 [Twitter](https://twitter.com/CeccoRiccardo) 
-
 Feel free to email me [✉️](mailto:ceccoriccardo1997@gmail.com)
