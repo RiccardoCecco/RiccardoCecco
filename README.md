@@ -6,14 +6,13 @@
 
 
 **Actual Job:**
-Software engineer at [Skyscanner]([https://clarivate.com/](https://www.skyscanner.net/))
+Software engineer at [Skyscanner](https://www.skyscanner.net/)
 
 
 **Past Jobs:**
 
 Researcher Engineer in the [Worklows and Distributed Computing research group](https://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computing) at [Barcelona Supercomputing Center](https://www.bsc.es/)
 DevOps Engineer at [Clarivate](https://clarivate.com/)
-
 
 
 **Background:**
