@@ -1,8 +1,3 @@
-**Contacts:**
-
-🔗 [Linkedin](https://www.linkedin.com/in/riccardocecco/) 
-
-🔗 [Twitter](https://twitter.com/CeccoRiccardo) 
 
 
 **Actual Job:**
@@ -22,8 +17,10 @@ Software engineer at [Skyscanner](https://www.skyscanner.net/)
 - Master's degree: [Computer Science Engineering specialization in Computer Networks and Distributed Systems](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/computer-networks-and-distributed-systems) at [Universitat Politècnica de Catalunya · Barcelona Tech - UPC](https://www.upc.edu/en)
 
 
+**Contacts:**
 
+🔗 [Linkedin](https://www.linkedin.com/in/riccardocecco/) 
 
-**Contact me:**
+🔗 [Twitter](https://twitter.com/CeccoRiccardo) 
 
 Feel free to email me [✉️](mailto:ceccoriccardo1997@gmail.com)
